@@ -20,9 +20,9 @@ require (
 	github.com/prometheus/common v0.39.0
 	github.com/spf13/pflag v1.0.5
 	github.com/tinylib/msgp v1.1.7
-	golang.org/x/crypto v0.4.0
-	golang.org/x/sys v0.5.0
-	golang.org/x/term v0.5.0
+	golang.org/x/crypto v0.17.0
+	golang.org/x/sys v0.15.0
+	golang.org/x/term v0.15.0
 	google.golang.org/api v0.102.0
 	google.golang.org/grpc v1.50.1
 	gopkg.in/yaml.v3 v3.0.1
@@ -90,9 +90,9 @@ require (
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/net v0.10.0 // indirect
 	golang.org/x/oauth2 v0.3.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c // indirect
